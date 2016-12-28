@@ -1,0 +1,13 @@
+2015/03/28 23:22:41 POST	/api/v1/signin?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	LoginUser	145.637226ms	[::1]:52575	
+2015/03/28 23:22:47 GET	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	ItemIndex	194.126634ms	[::1]:52575	
+2015/03/28 23:22:56 GET	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	ItemIndex	3.154964ms	[::1]:52575	
+2015/03/28 23:22:56 GET	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	ItemIndex	4.078279ms	[::1]:52575	
+2015/03/28 23:22:56 GET	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	ItemIndex	4.122876ms	[::1]:52575	
+2015/03/28 23:22:57 GET	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	ItemIndex	2.366702ms	[::1]:52575	
+2015/03/28 23:22:57 GET	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	ItemIndex	2.55042ms	[::1]:52575	
+2015/03/28 23:22:57 GET	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	ItemIndex	5.081292ms	[::1]:52575	
+2015/03/28 23:22:57 GET	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	ItemIndex	3.246655ms	[::1]:52575	
+2015/03/28 23:22:57 GET	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	ItemIndex	2.497236ms	[::1]:52575	
+2015/03/28 23:22:57 GET	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	ItemIndex	5.313229ms	[::1]:52575	
+2015/03/28 23:22:57 GET	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	ItemIndex	2.532018ms	[::1]:52575	
+2015/03/28 23:22:58 GET	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	ItemIndex	3.137773ms	[::1]:52575	

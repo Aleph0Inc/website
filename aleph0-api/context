@@ -1,0 +1,17 @@
+package main
+
+import(
+  "code.google.com/p/gorilla/sessions"
+  "net/http"
+)
+
+type Context struct {
+  Session *sessions.Session
+}
+
+func NewContext(req *http.Request) (*Context, error) {
+  sess, err := store.Get(req, "gostbook")
+  return &Context{
+    Session: sess,
+  }, err
+}

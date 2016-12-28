@@ -1,0 +1,65 @@
+2015/03/28 23:27:28 GET	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	ItemIndex	3.910367ms	[::1]:52636	
+2015/03/28 23:28:15 GET	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	ItemIndex	2.907668ms	[::1]:37621	
+2015/03/28 23:28:20 GET	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	ItemIndex	3.333139ms	[::1]:37621	
+2015/03/28 23:28:20 GET	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	ItemIndex	4.283184ms	[::1]:37621	
+2015/03/28 23:28:21 GET	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	ItemIndex	2.567357ms	[::1]:37621	
+2015/03/28 23:28:21 GET	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	ItemIndex	3.558803ms	[::1]:37621	
+2015/03/28 23:28:21 GET	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	ItemIndex	2.886711ms	[::1]:37621	
+2015/03/28 23:28:21 GET	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	ItemIndex	1.741017ms	[::1]:37621	
+2015/03/28 23:28:21 GET	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	ItemIndex	3.450437ms	[::1]:37621	
+2015/03/28 23:28:22 GET	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	ItemIndex	1.864524ms	[::1]:37621	
+2015/03/28 23:28:22 GET	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	ItemIndex	1.774816ms	[::1]:37621	
+2015/03/28 23:28:22 GET	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	ItemIndex	2.173674ms	[::1]:37621	
+2015/03/28 23:28:22 GET	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	ItemIndex	1.825981ms	[::1]:37621	
+2015/03/28 23:28:22 GET	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	ItemIndex	1.815675ms	[::1]:37621	
+2015/03/28 23:28:22 GET	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	ItemIndex	1.790245ms	[::1]:37621	
+2015/03/28 23:28:23 GET	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	ItemIndex	3.957329ms	[::1]:37621	
+2015/03/28 23:28:23 GET	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	ItemIndex	2.05459ms	[::1]:37621	
+2015/03/28 23:28:23 GET	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	ItemIndex	2.200484ms	[::1]:37621	
+2015/03/28 23:28:23 GET	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	ItemIndex	1.95389ms	[::1]:37621	
+2015/03/28 23:28:23 GET	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	ItemIndex	3.114185ms	[::1]:37621	
+2015/03/28 23:28:24 GET	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	ItemIndex	1.989332ms	[::1]:37621	
+2015/03/28 23:28:24 GET	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	ItemIndex	2.929803ms	[::1]:37621	
+2015/03/28 23:28:24 GET	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	ItemIndex	2.512491ms	[::1]:37621	
+2015/03/28 23:28:24 GET	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	ItemIndex	2.964552ms	[::1]:37621	
+2015/03/28 23:28:24 GET	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	ItemIndex	3.192ms	[::1]:37621	
+2015/03/28 23:28:24 GET	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	ItemIndex	3.232442ms	[::1]:37621	
+2015/03/28 23:28:25 GET	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	ItemIndex	3.014209ms	[::1]:37621	
+2015/03/28 23:42:13 GET	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	ItemIndex	3.633862ms	[::1]:37776	
+%s	%s	%s	%s	%s	%s GET /api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password ItemIndex 3.654284ms [::1]:37776 
+2015/03/28 23:43:18 GET	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	ItemIndex	3.548817ms	[::1]:37802	
+GET	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	ItemIndex	3.568431ms	[::1]:37802	
+2015/03/28 23:43:18 GET	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	ItemIndex	3.685291ms	[::1]:37802	
+GET	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	ItemIndex	3.718997ms	[::1]:37802	
+2015/03/28 23:43:19 GET	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	ItemIndex	3.257077ms	[::1]:37802	
+GET	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	ItemIndex	3.301225ms	[::1]:37802	
+2015/03/28 23:43:19 GET	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	ItemIndex	3.17595ms	[::1]:37802	
+GET	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	ItemIndex	3.207083ms	[::1]:37802	
+2015/03/28 23:43:19 GET	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	ItemIndex	3.009379ms	[::1]:37802	
+GET	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	ItemIndex	3.032876ms	[::1]:37802	
+2015/03/28 23:43:19 GET	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	ItemIndex	3.39469ms	[::1]:37802	
+GET	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	ItemIndex	3.419486ms	[::1]:37802	
+2015/03/28 23:43:19 GET	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	ItemIndex	3.118514ms	[::1]:37802	
+GET	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	ItemIndex	3.14084ms	[::1]:37802	
+2015/03/28 23:43:29 GET	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	ItemIndex	1.930574ms	[::1]:37802	
+GET	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	ItemIndex	1.956708ms	[::1]:37802	
+2015/03/28 23:43:29 GET	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	ItemIndex	1.942506ms	[::1]:37802	
+GET	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	ItemIndex	1.963576ms	[::1]:37802	
+2015/03/28 23:43:29 GET	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	ItemIndex	1.926029ms	[::1]:37802	
+GET	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	ItemIndex	1.947083ms	[::1]:37802	
+2015/03/28 23:43:29 GET	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	ItemIndex	1.821867ms	[::1]:37802	
+GET	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	ItemIndex	1.843493ms	[::1]:37802	
+2015/03/28 23:43:30 GET	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	ItemIndex	1.871458ms	[::1]:37802	
+GET	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	ItemIndex	1.893215ms	[::1]:37802	
+2015/03/28 23:43:30 GET	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	ItemIndex	2.408884ms	[::1]:37802	
+GET	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	ItemIndex	2.473209ms	[::1]:37802	
+2015/03/28 23:43:30 GET	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	ItemIndex	1.841102ms	[::1]:37802	
+GET	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	ItemIndex	1.877154ms	[::1]:37802	
+2015/03/28 23:43:33 POST	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	CreateItem	25.57259ms	[::1]:37802	
+POST	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	CreateItem	25.607113ms	[::1]:37802	
+2015/03/28 23:43:34 POST	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	CreateItem	22.753148ms	[::1]:37802	
+POST	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	CreateItem	22.778299ms	[::1]:37802	
+2015/03/28 23:43:34 POST	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	CreateItem	15.337334ms	[::1]:37802	
+POST	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	CreateItem	15.359446ms	[::1]:37802	
+2015/03/28 23:43:35 POST	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	CreateItem	23.394815ms	[::1]:37802	
+POST	/api/v1/items?token=PZD5n91AepGINMw2a&name=tennis&desc=loledddddt&lat=43.191453&lon=-87.976639&username=trevor&password=password	CreateItem	23.417268ms	[::1]:37802	
